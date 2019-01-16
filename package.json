@@ -27,7 +27,6 @@
     "xml2js": "~0.4.0"
   },
   "devDependencies": {
-    "async": "~0.2.9",
     "nodeunit": "~0.8.2"
   },
   "scripts": {
